@@ -24,6 +24,15 @@ To do this we had to created box-and-whisker plots to visualize the data and see
 
 ![df_jan_april](https://user-images.githubusercontent.com/87447639/133320682-509e208a-011b-4f68-b1fd-598297c3fb5f.PNG)
 
+- During the months of Data we analyzed the figures below shows % total fares, % total drivers and % total drives by City Type:
+
+![Fig5](https://user-images.githubusercontent.com/87447639/133912916-84601f76-ced0-4be5-b4b4-e10bfb9d4c51.png)
+
+![Fig6](https://user-images.githubusercontent.com/87447639/133912925-eb9a436a-1c19-4322-a544-51331cb07937.png)
+
+![Fig7](https://user-images.githubusercontent.com/87447639/133912926-5b08baa2-4e57-4ad5-93bd-e043581fb5bc.png)
+
+In sumarry we find the largest demand for riders is in urban cities compared to suburban and rural cities and the majority of the revenues were generated from urban cities.
 
 - Finally we crate a multiple-line chart that shows the performances for to the sum of fares by week for each city type.  
    
