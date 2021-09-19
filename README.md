@@ -32,7 +32,7 @@ To do this we had to created box-and-whisker plots to visualize the data and see
 
 ![Fig7](https://user-images.githubusercontent.com/87447639/133912926-5b08baa2-4e57-4ad5-93bd-e043581fb5bc.png)
 
-In sumarry we find the largest demand for riders is in urban cities compared to suburban and rural cities and the majority of the revenues were generated from urban cities.
+In summary we find the largest demand for riders is in urban cities compared to suburban and rural cities and the majority of the revenues were generated from urban cities.
 
 - Finally we crate a multiple-line chart that shows the performances for to the sum of fares by week for each city type.  
    
